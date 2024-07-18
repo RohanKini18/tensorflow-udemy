@@ -1,1 +1,1 @@
-# Learn TensorFlow by Google. Become an AI, Machine Learning, and Deep Learning expert! 
+# Learning TensorFlow by Google. Becoming an AI, Machine Learning, and Deep Learning expert! 
